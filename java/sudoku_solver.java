@@ -77,4 +77,24 @@ class Sudoku {
         int squareCol = (int)(col / 3) * 3;
         for (int i = 0; i < 3; i++) {
             for (int j = 0;
-// TODO:REST
+            if (board[squareRow + i][squareCol + j] == number) {
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+public static void main(String[] args) {
+    if (solveSudoku(board)) {
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                System.out.print(board[i][j] + " ");
+            }
+            System.out.println();
+        }
+    } else {
+        System.out.println("No solution found");
+    }
+}
+
