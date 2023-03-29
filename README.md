@@ -1,5 +1,5 @@
 # Sudoku_solver
-Solves Sudoku implemented in:
+Solves Sudoku, implemented in:
 - C++
 - Golang
 - Java
