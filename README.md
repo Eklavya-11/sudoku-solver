@@ -1,5 +1,9 @@
 # Sudoku_solver
-Solve sudoku
+Solves Sudoku
+
+https://user-images.githubusercontent.com/117552685/228420861-7cb9aa75-763a-4d15-936e-9c5960e4f33c.mp4
+
+gif of working (src: gify)
 
 # Theory
 
