@@ -1,5 +1,12 @@
 # Sudoku_solver
-Solves Sudoku
+Solves Sudoku implemented in:
+- C++
+- Golang
+- Java
+- Javascript
+- Python
+- Typescript
+- Rust
 
 https://user-images.githubusercontent.com/117552685/228420861-7cb9aa75-763a-4d15-936e-9c5960e4f33c.mp4
 
